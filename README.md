@@ -4,9 +4,10 @@
 - Spam Detection: Determine whether an email is spam or not with accuracy.
 - Machine Learning Model
 - Data Preprocessing
-- 
+
+  
 - ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+  [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgements
  - [Spam Mails Dataset](https://www.kaggle.com/datasets/venky73/spam-mails-dataset)
