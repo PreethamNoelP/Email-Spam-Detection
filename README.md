@@ -18,6 +18,7 @@
 - Python - The primary programming language for the project.
 - Machine Learning Libraries:
    - scikit-learn
-   - pandas
-   - numpy
+- Data Manipulation and Analysis Libraries:
+   - Pandas
+   - NumPy
 
