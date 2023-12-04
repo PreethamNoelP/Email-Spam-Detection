@@ -7,11 +7,11 @@
 
   
 ## License
-  [MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## Acknowledgements
- - [Spam Mails Dataset](https://www.kaggle.com/datasets/venky73/spam-mails-dataset)
+Dataset : [Spam Mails Dataset](https://www.kaggle.com/datasets/venky73/spam-mails-dataset)
 
 
 ## Tech Stack
